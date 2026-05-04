@@ -23,6 +23,10 @@ Life Insurance & Family Protection
 - Wednesday: Local authority content (best-of, how-to, pricing guides)
 - Thursday: GEO/AEO content optimized for AI answer engines
 
+## Recent Articles
+
+- [Life Insurance in Milton, GA (2026): Family Protection Guide](/blog/life-insurance-in-milton-ga-2026-family-protection-guide/)
+
 ## Discovery
 
 - Sitemap: https://localblog.guardianprotectionlife.com/sitemap.xml
