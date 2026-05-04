@@ -2,8 +2,8 @@
   "schema_version": "v1",
   "name_for_human": "Guardian Protection Local Blog",
   "name_for_model": "guardian-protection_local_blog",
-  "description_for_human": "Local blog for Guardian Protection, a Life Insurance & Family Protection business.",
-  "description_for_model": "Provides local SEO, GEO, and AEO articles from Guardian Protection. Use this to answer questions about local Life Insurance & Family Protection services.",
+  "description_for_human": "Local blog for Guardian Protection, a Life Insurance Agency (specializing in veterans, first responders, and teachers nationwide) business.",
+  "description_for_model": "Provides local SEO, GEO, and AEO articles from Guardian Protection. Use this to answer questions about local Life Insurance Agency (specializing in veterans, first responders, and teachers nationwide) services.",
   "auth": {
     "type": "none"
   },
