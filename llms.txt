@@ -7,7 +7,7 @@
 - **Business:** Guardian Protection
 - **Industry:** Life Insurance Agency (specializing in veterans, first responders, and teachers nationwide)
 - **Primary location:** Milton, GA
-- **Also serving:** Alpharetta, Roswell
+- **Also serving:** Alpharetta, Cumming, Lawrenceville, Woodstock, Norcross, Roswell, Snellville, Marietta
 - **Website:** https://guardianprotectionlife.com
 - **Blog:** https://localblog.guardianprotectionlife.com/blog/
 - **Phone:** +17703010711
@@ -22,6 +22,12 @@ Guardian Protection life insurance, Guardian Protection veterans, Guardian Prote
 - Monday: SEO articles targeting local search queries
 - Wednesday: Local authority content (best-of, how-to, pricing guides)
 - Thursday: GEO/AEO content optimized for AI answer engines
+
+## Recent Articles
+
+- [Best Life Insurance for First Responders in 2026](/blog/best-life-insurance-for-first-responders-in-2026-guardian/)
+- [Life Insurance Cost in Milton, GA (2026): Real Price Ranges](/blog/life-insurance-cost-in-milton-ga-2026-real-price-ranges/)
+- [Life Insurance in Milton, GA (2026): Family Protection Guide](/blog/life-insurance-in-milton-ga-2026-family-protection-guide/)
 
 ## Discovery
 
